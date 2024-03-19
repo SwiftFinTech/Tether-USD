@@ -1,0 +1,15 @@
+{
+    "name": "Tether USD",
+    "symbol": "mUSDT",
+    "description": "Utility token for MiConnect FMS.",
+    "image": "https://raw.githubusercontent.com/SwiftFinTech/crypto/main/logo.png",
+    "properties": {
+      "creators": [
+        {
+          "address": "2WBCU4w3dEZCjMEXbVU32RxaNZemLTT1FzdFLNtchmEk",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
